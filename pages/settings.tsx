@@ -3,11 +3,12 @@ import LayoutWithSidebar from '../src/components/layout-sidebar/layout-sidebar';
 import Link from 'next/link';
 import InputField from '../src/components/action-panels/input/input';
 import TargetRadio from '../src/components/action-panels/settings-radio/target-radio';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import BidSettings from '../src/components/action-panels/bid-settings/bid-settings';
 import { Metrics } from '../src/components/metrics/metrics';
 
 const AdTypes: NextPageWithLayout = () => {
+  const [metric, setMetric] = useState<string>('Impressions')
   useEffect(() => {
     document.body.classList.add('bg-gray-50');
   });
@@ -30,7 +31,7 @@ const AdTypes: NextPageWithLayout = () => {
               </Link>
             </div>
           </form>
-          <Metrics label='ASDSAD' />
+          <Metrics label={metric} />
         </div>
       </div>
     </LayoutWithSidebar>
