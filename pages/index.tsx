@@ -2,7 +2,7 @@ import Layout from '../src/components/layout/layout';
 import type { NextPageWithLayout } from './_app';
 import DataTable from '../src/components/data-table/data-table';
 import { useEffect } from 'react';
-import Link from 'Next/Link'
+import Link from 'next/link'
 
 const Page: NextPageWithLayout = () => {
   useEffect(() => {
@@ -20,9 +20,5 @@ const Page: NextPageWithLayout = () => {
     </Layout>
   )
 }
-
-
-
-
 
 export default Page
