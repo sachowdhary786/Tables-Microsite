@@ -1,0 +1,14 @@
+[
+  {
+    "id": "step-1",
+    "name": "Ad Types",
+    "href": "#",
+    "current": true
+  },
+  {
+    "id": "step-2",
+    "name": "Settings",
+    "href": "#",
+    "current": false
+  }
+]
