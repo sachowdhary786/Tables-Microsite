@@ -1,0 +1,30 @@
+[
+  {
+    "header": "Choose Campaign Types to Optimize",
+    "id": [
+      1,
+      2,
+      3
+    ],
+    "campaignName": [
+      "Sponsored Products",
+      "Coming Soon: Sponsored Brands",
+      "Coming Soon: Sponsored Display"
+    ],
+    "campaignDescription": [
+      "Optimise Bids for Sponsored Products",
+      "Optimise Bids for Sponsored Brands",
+      "Optimise Bids for Sponsored Display"
+    ],
+    "campaignExtra": [
+      "Campaigns including keyword and Product Targeting.",
+      "Campaigns including Ad Formats such as Product Collection and Video.",
+      "Campaigns including Product and Category Targeting."
+    ],
+    "disabled": [
+      false,
+      true,
+      true
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ad4ce888",
+    "active": false,
+    "name": "acosai",
+    "created": "2022-12-20T15:33:59.844Z",
+    "sources": 521,
+    "target": 32,
+    "7 Day ACoS": "",
+    "7 Day Sales": 0.00,
+    "30 Day ACoS": "",
+    "30 Day Sales": 0.00,
+    "run": "2022-12-20T15:33:59.844Z",
+    "status": "No report data"
+  },
+  {
+    "id": "69629591",
+    "active": false,
+    "name": "acosrulesbased",
+    "created": "2022-12-20T15:33:59.844Z",
+    "sources": 10,
+    "target": 20,
+    "7 Day ACoS": "",
+    "7 Day Sales": 0.00,
+    "30 Day ACoS": "",
+    "30 Day Sales": 0.00,
+    "run": "2022-12-20T15:33:59.844Z",
+    "status": "Bids Changed"
+  },
+  {
+    "id": "6a0b9773",
+    "active": true,
+    "name": "maxtraffic",
+    "created": "2022-12-20T15:33:59.844Z",
+    "sources": 21,
+    "target": 0,
+    "7 Day ACoS": "",
+    "7 Day Sales": 0.00,
+    "30 Day ACoS": "",
+    "30 Day Sales": 0.00,
+    "run": "2022-12-20T15:33:59.844Z",
+    "status": "Bids Changed"
+  }
+]
